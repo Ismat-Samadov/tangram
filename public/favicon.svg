@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="6" fill="#0f0720"/>
+  <!-- Tangram pieces forming a square -->
+  <polygon points="4,4 16,4 4,16" fill="#ff6b9d" opacity="0.95"/>
+  <polygon points="16,4 28,4 28,16 16,16" fill="#c44dff" opacity="0.95"/>
+  <polygon points="4,16 16,16 10,22" fill="#4daaff" opacity="0.95"/>
+  <polygon points="10,22 16,16 16,28 10,28" fill="#4dffb4" opacity="0.95"/>
+  <polygon points="16,16 22,22 16,28" fill="#ffdd4d" opacity="0.95"/>
+  <polygon points="22,22 28,16 28,28 22,28" fill="#ff884d" opacity="0.95"/>
+  <polygon points="4,16 10,22 10,28 4,28" fill="#4dfff4" opacity="0.95"/>
+</svg>
